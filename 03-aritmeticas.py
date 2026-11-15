@@ -1,0 +1,5 @@
+print(5 + 15)
+print(60 - 30)
+print(5 * 5)
+print(5 / 5)
+print(5 ** 2)
